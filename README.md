@@ -1,0 +1,1 @@
+# zapiszsesje-electron-updates
